@@ -10,7 +10,7 @@ In the file AVR_dev_board_main, there are the schematics and the PCB layout of t
 
 In the file AVR_dev_board_per_devices, there are the peripheral devices, mainly used for input and output, such as the keyboard, the buzzer, the display, and the rotator encoder.
 
-Here is the first version of the PCBs. The board is compatible to AT89s5X MCU.
+Here are the pictures of the first version boards. The boards are compatible to AT89s5X MCUs.
 
 ![Main_Board](https://github.com/John20230110/AVR_dev_board/blob/main/pictures/main_board.JPG)
 
