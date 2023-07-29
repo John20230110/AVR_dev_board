@@ -12,8 +12,8 @@ In the file AVR_dev_board_per_devices, there are the peripheral devices, mainly 
 
 Here is the first version of the PCBs. The board is compatible to AT89s5X MCU.
 
-![Main Board](pictures/main_board "main board")
+![Main_Board](./pictures/main_board)
 
-![Peripheral Device](pictures/main_board "Peripheral Device")
+![Peripheral_Device_Board](./pictures/main_board)
 
 After some experiments, I found the layout, especialy of the peripheral device  board, could be impoved. 
